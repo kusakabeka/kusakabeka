@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusakabeka&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusakabeka&count_private=true&theme=radical)
 
 ### [ + ] Languages and Tools
 ![Rust](https://img.shields.io/badge/RUST-black?style=for-the-badge&logo=rust&logoColor=e53a26)
