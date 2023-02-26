@@ -1,10 +1,16 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusakabeka&count_private=true)
 
-### Languages and Tools
+### [ + ] Languages and Tools
 ![Rust](https://img.shields.io/badge/RUST-black?style=for-the-badge&logo=rust&logoColor=e53a26)
 ![Ruby](https://img.shields.io/badge/RUBY-black?style=for-the-badge&logo=ruby&logoColor=960e16)
-![RoR](https://img.shields.io/badge/RoR-black?style=for-the-badge&logo=RubyonRails&logoColor=ec1521)
+![RoR](https://img.shields.io/badge/RubyOnRails-black?style=for-the-badge&logo=RubyonRails&logoColor=ec1521)
 ![Haskell](https://img.shields.io/badge/HASKELL-black?style=for-the-badge&logo=haskell&logoColor=5f5286)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sql&logoColor=960e16)
 ![ASM](https://img.shields.io/badge/ASSEMBLY-black?style=for-the-badge&logo=WASM&logoColor=960e16)
 
+### [ + ] Links
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=3eceef)](https://t.me/metasploitt)
+[![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=5865f2)](https://discordapp.com/users/756794813063626794/)
+[![Spotify](https://img.shields.io/badge/spotify-black?style=for-the-badge&logo=spotify&logoColor=25ef3f)](https://open.spotify.com/playlist/0kB8NaR2rrLijZnUSoIYmX?si=a2df98cd1a754a29)
+[![Steam](https://img.shields.io/badge/steam-black?style=for-the-badge&logo=steam&logoColor=2b5888)](https://steamcommunity.com/profiles/76561199428185673/)
+[![Linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=0077b7)](https://www.linkedin.com/in/nikita-kuzmin-38677424a/)
