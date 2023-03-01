@@ -4,7 +4,7 @@
 ![Rust](https://img.shields.io/badge/RUST-b6400e?style=for-the-badge&logo=rust&logoColor=black)
 ![Ruby](https://img.shields.io/badge/RUBY-efa995?style=for-the-badge&logo=ruby&logoColor=960e16)
 ![RoR](https://img.shields.io/badge/RubyOnRails-efa995?style=for-the-badge&logo=RubyonRails&logoColor=960e16)
-![Haskell](https://img.shields.io/badge/HASKELL-604279?style=for-the-badge&logo=haskell&logoColor=white)
+![Haskell](https://img.shields.io/badge/HASKELL-453a62?style=for-the-badge&logo=haskell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=960e16)
 ![ASM](https://img.shields.io/badge/ASSEMBLY-black?style=for-the-badge&logo=WASM&logoColor=960e16)
 
