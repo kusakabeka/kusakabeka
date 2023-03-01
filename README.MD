@@ -9,8 +9,8 @@
 ![ASM](https://img.shields.io/badge/ASSEMBLY-233c98?style=for-the-badge&logo=byte&logoColor=ca1768)
 
 ### [ + ] Links
-[![Telegram](https://img.shields.io/badge/Telegram-6a432a?style=for-the-badge&logo=telegram&logoColor=3eceef)](https://t.me/metasploitt)
-[![Discord](https://img.shields.io/badge/discord-6a432a?style=for-the-badge&logo=discord&logoColor=5865f2)](https://discordapp.com/users/756794813063626794/)
-[![Spotify](https://img.shields.io/badge/spotify-6a432a?style=for-the-badge&logo=spotify&logoColor=25ef3f)](https://open.spotify.com/playlist/0kB8NaR2rrLijZnUSoIYmX?si=a2df98cd1a754a29)
-[![Steam](https://img.shields.io/badge/steam-6a432a?style=for-the-badge&logo=steam&logoColor=2b5888)](https://steamcommunity.com/profiles/76561199428185673/)
-[![Linkedin](https://img.shields.io/badge/linkedin-6a432a?style=for-the-badge&logo=linkedin&logoColor=0077b7)](https://www.linkedin.com/in/nikita-kuzmin-38677424a/)
+[![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=3eceef)](https://t.me/metasploitt)
+[![Discord](https://img.shields.io/badge/discord-white?style=for-the-badge&logo=discord&logoColor=5865f2)](https://discordapp.com/users/756794813063626794/)
+[![Spotify](https://img.shields.io/badge/spotify-white?style=for-the-badge&logo=spotify&logoColor=25ef3f)](https://open.spotify.com/playlist/0kB8NaR2rrLijZnUSoIYmX?si=a2df98cd1a754a29)
+[![Steam](https://img.shields.io/badge/steam-white?style=for-the-badge&logo=steam&logoColor=2b5888)](https://steamcommunity.com/profiles/76561199428185673/)
+[![Linkedin](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=0077b7)](https://www.linkedin.com/in/nikita-kuzmin-38677424a/)
