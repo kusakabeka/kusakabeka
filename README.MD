@@ -6,7 +6,7 @@
 ![RoR](https://img.shields.io/badge/RubyOnRails-efa995?style=for-the-badge&logo=RubyonRails&logoColor=960e16)
 ![Haskell](https://img.shields.io/badge/HASKELL-453a62?style=for-the-badge&logo=haskell&logoColor=8f4e8b)
 ![SQL](https://img.shields.io/badge/SQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
-![ASM](https://img.shields.io/badge/ASSEMBLY-black?style=for-the-badge&logo=VASM&logoColor=960e16)
+![ASM](https://img.shields.io/badge/ASSEMBLY-black?style=for-the-badge&logo=byte&logoColor=960e16)
 
 ### [ + ] Links
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=3eceef)](https://t.me/metasploitt)
