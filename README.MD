@@ -5,7 +5,7 @@
 ![Ruby](https://img.shields.io/badge/RUBY-efa995?style=for-the-badge&logo=ruby&logoColor=960e16)
 ![RoR](https://img.shields.io/badge/RubyOnRails-efa995?style=for-the-badge&logo=RubyonRails&logoColor=960e16)
 ![Haskell](https://img.shields.io/badge/HASKELL-453a62?style=for-the-badge&logo=haskell&logoColor=8f4e8b)
-![SQL](https://img.shields.io/badge/SQL-4479a1?style=for-the-badge&logo=mysql&logoColor=e6892e)
+![SQL](https://img.shields.io/badge/SQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 ![ASM](https://img.shields.io/badge/ASSEMBLY-black?style=for-the-badge&logo=asm&logoColor=960e16)
 
 ### [ + ] Links
