@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusakabeka&count_private=true&theme=radical)
 
 ### [ + ] Languages and Tools
-![Rust](https://img.shields.io/badge/RUST-b6400e?style=for-the-badge&logo=rust&logoColor=black)
+![Rust](https://img.shields.io/badge/RUST-b6400e?style=for-the-badge&logo=rust&logoColor=white)
 ![Ruby](https://img.shields.io/badge/RUBY-efa995?style=for-the-badge&logo=ruby&logoColor=960e16)
 ![RoR](https://img.shields.io/badge/RubyOnRails-efa995?style=for-the-badge&logo=RubyonRails&logoColor=960e16)
 ![Haskell](https://img.shields.io/badge/HASKELL-453a62?style=for-the-badge&logo=haskell&logoColor=white)
