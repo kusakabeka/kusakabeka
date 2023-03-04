@@ -3,7 +3,7 @@
 ### [ + ] Languages and Tools
 ![Rust](https://img.shields.io/badge/RUST-b6400e?style=for-the-badge&logo=rust&logoColor=white)
 ![Ruby](https://img.shields.io/badge/RUBY-a83432?style=for-the-badge&logo=ruby&logoColor=white)
-![RoR](https://img.shields.io/badge/RoR-white?style=for-the-badge&logo=RubyonRails&logoColor=a83432)
+![RoR](https://img.shields.io/badge/RoR-a83432?style=for-the-badge&logo=RubyonRails&logoColor=white)
 ![Haskell](https://img.shields.io/badge/HASKELL-453a62?style=for-the-badge&logo=haskell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 ![ASM](https://img.shields.io/badge/ASSEMBLY-233c98?style=for-the-badge&logo=byte&logoColor=ca1768)
