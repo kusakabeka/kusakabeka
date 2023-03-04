@@ -7,7 +7,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 ![RoR](https://img.shields.io/badge/RoR-a83432?style=for-the-badge&logo=RubyonRails&logoColor=white)
 ![Linux](https://img.shields.io/badge/Ubuntu-d4693b?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-d4693b?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-e35314?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-d4693b?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
