@@ -4,13 +4,13 @@
   
 
 <h1 align="center">Hi, I'm Kuzmin Nikita</h1>
-<h3 align="center">a system and backend developer</h3>
+<h3 align="center">System and Backend developer</h3>
 
-- 🔭 I’m currently working on [Rust Learn](https://github.com/kusakabeka/rust-learn)
+- 🔭 I’m currently working on [Rust Learn](https://github.com/kusakabeka/rust-learn) and [Ruby Learn](https://github.com/kusakabeka/ruby-learn)
 
 - 🌱 I’m currently learning **Rust and Haskell**
 
-- 💬 Ask me about **In addition, I am interested in information security, pentest and mathematics**
+- 💬 **In addition, I am interested in information security, pentest and mathematics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
