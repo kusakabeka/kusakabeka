@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/nikita kuzmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita kuzmin" height="30" width="40" /></a>
 <a href="https://instagram.com/unsigned.longint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unsigned.longint" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/3164qkmtzdjrwopfx3t7nwcaerva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="root" height="30" width="40" /></a>
-<a href="https://t.me/metasploitt" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-telegram-1.png" alt="metasploitt" height="30" width="40" /></a>
+<a href="https://t.me/metasploitt" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/telegram-1754812-1490132.png?f=avif&w=512" alt="metasploitt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
