@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Rust and Haskell**
 
-- 💬 **In addition, I am interested in information security, pentest and mathematics**
+- 💬In addition, **I am interested in information security, pentest and mathematics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
