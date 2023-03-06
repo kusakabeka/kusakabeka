@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nikita kuzmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita kuzmin" height="30" width="40" /></a>
 <a href="https://instagram.com/unsigned.longint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unsigned.longint" height="30" width="40" /></a>
-<a href="https://instagram.com/unsigned.longint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="unsigned.longint" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/3164qkmtzdjrwopfx3t7nwcaerva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="unsigned.longint" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
