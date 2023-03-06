@@ -14,8 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/nikita kuzmin](https://www.linkedin.com/in/nikita-kuzmin-38677424a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita kuzmin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikita kuzmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita kuzmin" height="30" width="40" /></a>
 <a href="https://instagram.com/unsigned.longint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unsigned.longint" height="30" width="40" /></a>
+<a href="https://discord.gg/1646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1646" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
