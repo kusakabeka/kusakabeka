@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/nikita kuzmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita kuzmin" height="30" width="40" /></a>
 <a href="https://instagram.com/unsigned.longint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unsigned.longint" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/3164qkmtzdjrwopfx3t7nwcaerva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="root" height="30" width="40" /></a>
-<a href="https://t.me/metasploitt" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="metasploitt" height="30" width="40" /></a>
+<a href="https://t.me/metasploitt" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/240px-Telegram_2019_Logo.svg.png" alt="metasploitt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
