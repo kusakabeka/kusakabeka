@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Kuzmin Nikita</h1>
 <h3 align="center">System and Backend developer</h3>
 
-- 🔭 I’m currently working on [Rust Learn](https://github.com/kusakabeka/rust-learn) and [Ruby Learn](https://github.com/kusakabeka/ruby-learn)
+- 🔭 I’m currently working on [Ruby Learn](https://github.com/kusakabeka/ruby-learn)
 
 - 🌱 I’m currently learning **Rust and Haskell**
 
