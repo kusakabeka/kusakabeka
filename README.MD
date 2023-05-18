@@ -4,7 +4,7 @@
   
 
 <h1 align="center">Hi, I'm Kuzmin Nikita</h1>
-<h3 align="center">Junior System and Backend developer</h3>
+<h3 align="center">System and Backend developer</h3>
 
 - 𖤐 I’m currently working on [EGE](https://github.com/kusakabeka/ege)
 
