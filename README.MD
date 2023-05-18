@@ -15,8 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nikita-kuzmin-38677424a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita kuzmin" height="30" width="40" /></a>
-<a href="https://instagram.com/unsigned.longint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unsigned.longint" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/3164qkmtzdjrwopfx3t7nwcaerva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="root" height="30" width="40" /></a>
 <a href="https://t.me/metasploitt" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/telegram-2690368-2232871.png?f=avif&w=512" alt="metasploitt" height="30" width="40" /></a>
 </p>
 
