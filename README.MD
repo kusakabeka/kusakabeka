@@ -6,11 +6,11 @@
 <h1 align="center">Hi, I'm Kuzmin Nikita</h1>
 <h3 align="center">System and Backend developer</h3>
 
-- 𖤐 I’m currently working on [EGE](https://github.com/kusakabeka/ege)
+- I’m currently working on [EGE](https://github.com/kusakabeka/ege)
 
-- 𖤐 I’m currently learning **Rust and Haskell**
+- I’m currently learning **Rust and Haskell**
 
-- 𖤐 In addition, **I am interested in information security, pentest and mathematics**
+- In addition, **I am interested in information security, pentest and mathematics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
