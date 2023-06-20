@@ -3,14 +3,11 @@
 </div>  
   
 
-<h1 align="center">Hi, I'm Kuzmin Nikita</h1>guava  guava-Vivobook-ASUSLaptop-X7400PC-N7400PC guava  guava-Vivobook-ASUSLaptop-X7400PC-N7400PC 
-
+<h1 align="center">Hi, I'm Kuzmin Nikita</h1>
 
 
 
 <h3 align="center">System and Backend developer</h3>
-guava  guava-Vivobook-ASUSLaptop-X7400PC-N7400PC 
-
 
 - I’m currently working on [EGE](https://github.com/kusakabeka/ege)
 
