@@ -9,7 +9,7 @@
 
 <h3 align="center">System and Backend developer</h3>
 
-- I’m currently working on [EGE](https://github.com/kusakabeka/ege)
+- I’m currently working on [go learn](https://github.com/kusakabeka/go_learn)
 
 - I’m currently learning **Rust and Haskell**
 
