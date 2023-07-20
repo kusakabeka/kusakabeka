@@ -11,7 +11,7 @@
 
 - I’m currently working on [go learn](https://github.com/kusakabeka/go_learn)
 
-- I’m currently learning **Go and Haskell**
+- I’m currently learning **Go and Rust**
 
 - In addition, **I am interested in information security, pentest and mathematics**
 
