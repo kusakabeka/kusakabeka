@@ -1,5 +1,7 @@
-<h1>алкоголик, математик, философ</h1>
 <div align="center">
-<img src="https://i.pinimg.com/originals/0d/c8/c4/0dc8c465641906ebe47d20a6ff80ba05.gif" align="center" style="width: 100%" />
+  <h1>алкоголик, математик, философ</h1>
+</div>
+<div align="center">
+<img src="https://i.pinimg.com/736x/da/09/c4/da09c4d0e891595895ecc59a8e76f1b1.jpg" align="center" style="width: 100%" />
 <h3>K₀(X) = free(Vec(X))/∼</h3>
 </div>
